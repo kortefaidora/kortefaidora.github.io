@@ -1,10 +1,11 @@
 body{
-    background-color: #61f29c;
-    color: #1433c2;
+    background-color: #ccffff;
+    color: #00006b;
     margin: 0;
 }
 
 h1{
-    font-family:"Cursive">
+    font-family: Cursive;
+    align: center;
 }
 
