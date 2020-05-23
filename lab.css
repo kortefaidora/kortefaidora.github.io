@@ -28,6 +28,10 @@ ul li a{
     color: black;
 }
 
+ul li a:hover{
+    color: #009eff;
+}
+
 img{
    width: 100%;
    text-align: center;
