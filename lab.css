@@ -16,10 +16,11 @@ p{
 
 ul li.meres{
     list-style-type: square;
+    color: black;
 }
 
 ul li a.meres{
-    color: #004775;
+    color: black;
 }
 
 img{
