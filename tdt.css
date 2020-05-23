@@ -17,6 +17,14 @@ h3{
     padding: 10px;
 }
 
+ul li a{
+    color: black;
+}
+
+ul li a:hover{
+    color: #009eff;
+}
+
 footer{
     text-align: center;
     color: #00006b;
