@@ -5,8 +5,9 @@ body{
     font-family: Arial;
 }
 
-div.rows{
-    display: inline-block;
+h1{
+    font-family: Times New Roman;
+    text-align: center;
 }
 
 img{
@@ -23,4 +24,21 @@ img{
   content: "";
   clear: both;
   display: table;
+}
+
+.home{
+    color: #5c8a94;
+    padding: 70px, 40px, 70px, 40px;
+}
+
+nav ul li{
+    color: #5c8a94;
+    list-style-type: none;
+    display: inline-block;
+    padding: 70px, 40px, 70px, 40px;
+    margin 5px;
+}
+
+footer{
+    text-align: center;
 }
