@@ -14,6 +14,10 @@ h2{
     font-family: Times New Roman;
 }
 
+ul li{
+    list-style-type: square;
+}
+
 .green{
     color: #00a37a;
 }
