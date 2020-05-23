@@ -12,12 +12,16 @@ h1{
 }
 
 nav ul li{
-    background-color: #e6fff5;
+    background-color: #f2fffa;
     color: #26ffa8;
     list-style-type: none;
     display: inline-block;
     padding: 5px 15px;
     margin 5px;
+}
+
+nav ul li a{
+    color: #26ffa8;
 }
 
 img{
