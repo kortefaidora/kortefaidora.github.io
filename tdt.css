@@ -22,3 +22,15 @@ footer{
     color: #00006b;
 }
 
+nav ul li{
+    color: #5c8a94;
+    list-style-type: none;
+    display: inline-block;
+    padding: 70px, 40px, 70px, 40px;
+    margin 5px;
+}
+
+nav ul li a{
+    color: #5c8a94;
+}
+
