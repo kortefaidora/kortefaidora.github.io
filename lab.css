@@ -1,0 +1,11 @@
+body{
+    background-color: #ccffff;
+    color: #00006b;
+    margin: 15px;
+    font-family: Arial;
+}
+
+div.rows{
+    display: inline-block;
+    width: 23%;
+}
