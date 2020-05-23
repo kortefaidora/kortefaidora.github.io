@@ -1,0 +1,23 @@
+body{
+    background-color: #ccffff;
+    color: #00006b;
+    margin: 0;
+    font-family: Arial;
+}
+
+h1{
+    font-family: Times New Roman;
+    text-align: center;
+}
+
+h2{
+    font-family: Times New Roman;
+}
+
+.green{
+    color: #00f29c;
+}
+
+.blue{
+    color: #0019c7;
+}
