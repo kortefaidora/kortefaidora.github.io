@@ -6,7 +6,7 @@ body{
 
 header{
     background-color: MediumSeaGreen;
-    color: DarkOliveGreen;
+    color: White;
     margin: 0;
 }
 
@@ -20,4 +20,5 @@ nav ul{
 
 nav ul li{
     list-style-type: none;
+    display: inline-block;
 }
