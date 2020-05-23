@@ -9,6 +9,10 @@ div.rows{
     display: inline-block;
 }
 
+img{
+   width: 100%;
+}
+
 .column {
   float: left;
   width: 20%;
