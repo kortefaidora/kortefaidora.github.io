@@ -11,11 +11,15 @@ h1{
 }
 
 p{
-    color: #004775;
+    color: black;
 }
 
 ul li.meres{
     list-style-type: square;
+}
+
+ul li a.meres{
+    color: #004775;
 }
 
 img{
