@@ -7,8 +7,17 @@ body{
 }
 
 h1{
-    font-family: Century Schoolbook;
+    font-family: Times New Roman;
     text-align: center;
+}
+
+nav ul li{
+    background-color: #e6fff5;
+    color: #26ffa8;
+    list-style-type: none;
+    display: inline-block;
+    padding: 5px 15px;
+    margin 5px;
 }
 
 img{
