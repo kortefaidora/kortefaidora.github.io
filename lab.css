@@ -14,6 +14,10 @@ p{
     color: #004775;
 }
 
+ul li.meres{
+    list-style-type: square;
+}
+
 img{
    width: 100%;
 }
@@ -30,12 +34,16 @@ img{
   display: table;
 }
 
-ul li.home{
+nav ul li{
     color: #5c8a94;
     list-style-type: none;
     display: inline-block;
     padding: 70px, 40px, 70px, 40px;
     margin 5px;
+}
+
+nav ul li a{
+    color: #5c8a94;
 }
 
 footer{
