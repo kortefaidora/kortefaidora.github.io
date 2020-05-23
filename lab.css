@@ -11,4 +11,5 @@ div.rows{
 
 img{
     width: 23%;
+    display: inline-block;
 }
