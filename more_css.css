@@ -36,11 +36,16 @@ nav ul li a{
 }
 
 div.row{
-    float: left;
+
 }
 
 div.col{
-
+    background-color: LightYellow;
+    
+    float: left;
+    margin: 1%;
+    padding: 1%;
+    width: 16%;
 }
 
 footer{
