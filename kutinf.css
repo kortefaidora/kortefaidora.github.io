@@ -2,10 +2,16 @@ body{
     background-color: #ccffff;
     color: #00006b;
     margin: 0;
+    text-align: center;
+    font-family: Arial;
 }
 
 h1{
-    font-family: Arial;
+    font-family: Century Schoolbook;
     text-align: center;
+}
+
+img{
+    width: 200px;
 }
 
