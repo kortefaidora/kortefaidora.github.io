@@ -17,11 +17,11 @@ h3{
     padding: 10px;
 }
 
-ul li a{
+a{
     color: black;
 }
 
-ul li a:hover{
+a:hover{
     color: #009eff;
 }
 
