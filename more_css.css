@@ -32,5 +32,17 @@ nav ul li{
 }
 
 nav ul li a{
-    color: Black;
+    color: White;
+}
+
+div.row{
+    float: left;
+}
+
+div.col{
+
+}
+
+footer{
+    clear:both;
 }
