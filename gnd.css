@@ -33,14 +33,16 @@ img{
 .column {
   float: left;
   width: 30%;
-  padding: 5%;
+  padding: 2%;
+  text-align: center;
 }
 
 .row::after {
   content: "";
   clear: both;
   display: table;
-
+  text-align: center;
+}
 
 footer{
     text-align: center;
