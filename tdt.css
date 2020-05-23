@@ -25,6 +25,10 @@ a:hover{
     color: #009eff;
 }
 
+img{
+    text-align: center;
+}
+
 footer{
     text-align: center;
     color: #00006b;
