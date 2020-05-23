@@ -1,4 +1,23 @@
 body{
-    background-color: Lime;
-    color: LightYellow;
+    background-color: MediumSeaGreen;
+    color: DarkSlateGrey;
+    margin: 0;
+}
+
+header{
+    background-color: MediumSeaGreen;
+    color: DarkOliveGreen;
+    margin: 0;
+}
+
+header h1{
+    margin: 0;
+}
+
+nav ul{
+    margin: 0;
+}
+
+nav ul li{
+    list-style-type: none;
 }
